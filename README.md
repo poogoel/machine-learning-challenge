@@ -1,6 +1,6 @@
 # Machine Learning Homework - Exoplanet Exploration
 
-![exoplanets.jpg](Images/exoplanets.jpg)
+<img src=![exoplanets.jpg](Images/exoplanets.jpg)/>
 
 ## Background
 
